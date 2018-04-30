@@ -1,1 +1,36 @@
-{'DUB': {'HEA': [5647.928449518891, 5647.928449518891], 'SYD': [17215.2756734028, 17215.2756734028], 'DXB': [5918.53378210718, 5918.53378210718], 'LHR': [448.8922295538067, 448.8922295538067]}
+			Airports
+========================================================
+
+This is a solution for the term project of COMP20230
+Submitted by Shane Bird, 17200769
+
+
+Prerequisites
+========================================================
+This project was created using Python 3.6
+There are no other prerequisites
+
+
+Installation and Setup
+========================================================
+Please run the following commands in the terminal:
+
+git clone https://github.com/FoolsJester/AlgorithmsAirportSub.git
+cd AlgorithmsAirportSub
+
+
+Running the Program
+========================================================
+From the project directory run the following
+
+python main.py run
+
+if there are encoding errors please run using following
+
+python3 main.py run
+
+
+
+
+
+
